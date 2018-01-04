@@ -13,3 +13,10 @@ buildNumber.properties
 
 *.iml
 .idea/
+*.class
+.settings/
+.project
+.classpath
+
+!/src/main/resources/lib/*.jar
+*.jar
